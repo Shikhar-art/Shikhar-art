@@ -10,7 +10,6 @@
 * 🤔 **I'm looking for help with:** Advanced Machine Learning, System Design, and Cloud Deployment.
 * 💬 **Ask me about:** C++, JavaScript, TypeScript, Backend Development, Software Testing, and Git/GitHub.
 * 📫 **How to reach me:** **[shikharshourya975@gmail.com](mailto:shikharshourya975@gmail.com)**
-* 😄 **Pronouns:** He/Him
 * ⚡ **Fun fact:** I enjoy turning ideas into software solutions and continuously learning new technologies.
 
 ## 🌐 Connect With Me
@@ -37,7 +36,7 @@
 * 🏛️ **Civic Issue Reporting Platform** – A system for reporting and tracking local civic issues.
 * 🏦 **Bank Management System** – A banking application developed using Data Structures in C++.
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 * Master Backend Development
 * Build Production-Ready Full-Stack Applications
